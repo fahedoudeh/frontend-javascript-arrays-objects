@@ -1,7 +1,7 @@
 // ==========================================
-// 1. Declareer een variabele en sla daar een array met vier jaartallen (zoals 2021) in op. Log dit in de terminal.
+// 1. Declareer een variabele en sla daar een array met vier  (zoals 2021) in op. Log dit in de terminal.
 // ==========================================
-
+const years
 
 // ==========================================
 // 2. Declareer een variabele en sla daar een array met drie van jouw hobbies (zoals muziek luisteren en koekjes eten) in op. Log dit in de terminal.
